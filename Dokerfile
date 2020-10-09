@@ -1,0 +1,2 @@
+FROM
+docker.pkg.github.com/parveenbhadooofficial/bhadoo-cloud/latest:docker-base-layer
