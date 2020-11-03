@@ -1,3 +1,10 @@
-FROM
-docker.pkg.github.com/parveenbhadooofficial/bhadoo-cloud/latest:docker-base-layer
-run docker.pkg.github.com/parveenbhadooofficial/bhadoo-cloud/latest:docker-base-layer
+wget https://github.com/anthonyraymond/joal/releases/latest
+mkdir joal
+mv joal.tar.gz joal
+cd joal
+
+gunzip joal.tar.gz
+pwd
+tar -vf 
+
+
